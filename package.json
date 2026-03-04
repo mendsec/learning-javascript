@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "gsap": "^3.6.0",
+    "readline-sync": "^1.4.10",
     "snap": "^1.1.0",
     "svg": "^0.1.0"
   }

@@ -1,0 +1,151 @@
+{
+    "apps": [
+        {
+            "Source": "main",
+            "Version": "26.00",
+            "Info": "",
+            "Name": "7zip",
+            "Updated": "2026-02-16T16:14:25.8121121-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "1.3.9",
+            "Info": "",
+            "Name": "bun",
+            "Updated": "2026-02-16T16:14:36.429552-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "3.14.1",
+            "Info": "",
+            "Name": "dark",
+            "Updated": "2025-05-24T20:21:02.8544735-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.0.9219-24",
+            "Info": "",
+            "Name": "discord",
+            "Updated": "2026-01-14T14:18:09.8196676-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "2.1.4",
+            "Info": "",
+            "Name": "etcher",
+            "Updated": "2025-08-11T17:10:39.5234289-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "2.86.0",
+            "Info": "",
+            "Name": "gh",
+            "Updated": "2026-02-16T16:14:38.1357875-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "2.53.0",
+            "Info": "",
+            "Name": "git",
+            "Updated": "2026-02-16T16:15:21.8077328-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "5.0.1",
+            "Info": "",
+            "Name": "gpg4win",
+            "Updated": "2026-02-16T16:16:12.4973039-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "7.2-22.1",
+            "Info": "",
+            "Name": "nano",
+            "Updated": "2025-10-21T09:51:10.9631103-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "25.8.0",
+            "Info": "",
+            "Name": "nodejs",
+            "Updated": "2026-03-04T09:34:19.3527463-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.11.7",
+            "Info": "",
+            "Name": "obsidian",
+            "Updated": "2026-02-16T16:16:50.063718-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.25.1",
+            "Info": "",
+            "Name": "podman-desktop",
+            "Updated": "2026-02-16T16:17:22.2074397-04:00"
+        },
+        {
+            "Source": "main",
+            "Version": "3.14.3",
+            "Info": "",
+            "Name": "python",
+            "Updated": "2026-02-16T16:18:27.6024342-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "6.5.1",
+            "Info": "",
+            "Name": "telegram",
+            "Updated": "2026-02-16T16:18:38.4412189-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "3.42",
+            "Info": "",
+            "Name": "tixati",
+            "Updated": "2026-01-14T14:45:00.3090378-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.1.10",
+            "Info": "",
+            "Name": "ventoy",
+            "Updated": "2026-01-14T14:48:29.3199943-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "7.8.3925.66",
+            "Info": "",
+            "Name": "vivaldi",
+            "Updated": "2026-02-16T16:18:56.854407-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.109.51242",
+            "Info": "",
+            "Name": "vscodium",
+            "Updated": "2026-03-03T12:13:13.9389179-04:00"
+        },
+        {
+            "Source": "extras",
+            "Version": "4.6.3",
+            "Info": "",
+            "Name": "wireshark",
+            "Updated": "2026-02-16T16:19:07.3079837-04:00"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2026-03-04T08:33:09-04:00",
+            "Manifests": 1454
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2026-03-04T08:32:14-04:00",
+            "Manifests": 2275
+        }
+    ]
+}
